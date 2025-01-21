@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Django Advanced API
 
 Building robust APIs with Django and Django REST Framework.
@@ -17,6 +17,4 @@ Building robust APIs with Django and Django REST Framework.
 2.  Create a virtual environment: `python3 -m venv env`
 3.  Activate the environment: `source env/bin/activate` (or `env\Scripts\activate` on Windows)
 4.  Install dependencies: `pip install -r requirements.txt`
-=======
-# BackgroundTasks
->>>>>>> origin/main
+
