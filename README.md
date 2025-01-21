@@ -9,7 +9,7 @@ Building robust APIs with Django and Django REST Framework.
 *   Celery for asynchronous tasks.
 *   Redis for message brokering.
 *   JWT authentication.
-*   PostgreSQL support (optional).
+*   PostgreSQL support.
 
 ## Getting Started
 
